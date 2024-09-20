@@ -32,7 +32,7 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 #### Developed By: Thiyagarajan A
 #### Register Number: 212222240110
-```
+```python
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
